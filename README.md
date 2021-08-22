@@ -1,3 +1,3 @@
-# EricksonCode_Unbound
+# Unbound
 
 This repository holds the source code for the game Unbound.
